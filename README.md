@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Danielis
+# 👋 Hi, I'm Petras
 
 ### Junior Front-End Developer | Level 4 Certified
 I am a 10th-grade student and a certified Junior Developer focused on building clean, functional, and user-friendly web interfaces.
 
-- [cite_start]🎓 **Education:** Level 4 Professional Qualification in Web Development from TECHIN.
-- [cite_start]💻 **Focus:** Designing and programming web user interfaces.
-- 🌍 **Languages:** Lithuanian (Native), English (Advanced/B2).
+- 🎓 **Education:** Level 4 Professional Qualification in Web Development.
+- 💻 **Focus:** Designing and programming web user interfaces.
+- 🌍 **Languages:** Lithuanian (Native), English (Advanced/B2), Russian (Intermediate/A2)
 
 ---
 
